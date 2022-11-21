@@ -1,0 +1,9 @@
+export declare const UnknownChipFamilyError = "Unknown chip family";
+export declare const ClosedError = "closed";
+export declare const TimeoutError = "timeout";
+export declare const ConnectError = "connect error";
+export declare const ReadAlreadyInProgressError = "Read already in progress";
+export declare const AlreadyRunningError = "already running";
+export declare const NotRunningError = "not running";
+export declare const NotListeningError = "not listening";
+//# sourceMappingURL=errors.d.ts.map
